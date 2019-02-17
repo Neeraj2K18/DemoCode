@@ -1,4 +1,4 @@
-//**
+/**
  * @file demo.cpp
  * @author your nN (N@domain.com)
  * @brief 
